@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : SHAKTHI KUMAR S
+ #### REGISTER NUMBER : 212222110043
+ #### DEPARTMENT : CSE(IOT)
+ #### YEAR : 3rd YEAR
 
  
 # Aim:
@@ -75,25 +75,23 @@ Download and Execute:
 Download the ladder logic program to the PLC if available and run it.
 Test the timers with the physical push buttons and observe the LEDs or other output devices.
 #   Outputs:
-ON-Delay Timer: The output LED or indicator should turn on after a specified delay (e.g., 5 seconds) once the input is activated.
+ON-Delay Timer: 
+The output LED or indicator should turn on after a specified delay (e.g., 5 seconds) once the input is activated.
 OFF-Delay Timer: The output should remain on for the specified delay after the input is deactivated, and then it should turn off.
 Retentive Timer: The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.
 
 
 # Simulation Screenshots 
+Timer-ON:
+![](IIOT_EX02-1.png)
+![](IIOT_EX02-2.png)
 
+Timer-OFF:
+![](IIOT_EX02-3.png)
+![](IIOT_EX02-4.png)
 
-
-
-
-
-
-
-
-
-
-
-
+Retentive Timer:
+![](IIOT_EX02-5.png)
 
 
 # Results:
