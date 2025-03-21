@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : SHAKTHI KUMAR S
+ #### REGISTER NUMBER : 212222110043
+ #### DEPARTMENT : CSE(IOT)
+ #### YEAR : 3rd YEAR
 
  
 # Aim:
@@ -82,17 +82,16 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+TIMER ON
 
 
 
+TIMER OFF
 
 
+REAL LIFE EXAMPLE:
 
-
-
-
-
-
+Here is the ladder logic using timer to initialise process of stamping in industries where operator uses his 2 hands to switch ON machines. The duration starts after 5S. AND logic is used as both hands required to switch ON, with Timer ON delay.
 
 
 
