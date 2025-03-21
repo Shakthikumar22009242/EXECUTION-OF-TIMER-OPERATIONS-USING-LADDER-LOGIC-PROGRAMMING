@@ -1,6 +1,5 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
-
  #### NAME : SHAKTHI KUMAR S
  #### REGISTER NUMBER : 212222110043
  #### DEPARTMENT : CSE(IOT)
@@ -92,6 +91,12 @@ Timer-OFF:
 
 Retentive Timer:
 ![](IIOT_EX02-5.png)
+
+
+
+
+
+
 
 
 # Results:
